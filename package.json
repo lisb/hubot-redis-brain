@@ -1,5 +1,5 @@
 {
-  "name": "hubot-redis-brain",
+  "name": "lisb-hubot-redis-brain",
   "description": "A hubot script to persist hubot's brain using redis",
   "version": "0.0.3",
   "author": "Josh Nichols <technicalpickles@github.com>",
