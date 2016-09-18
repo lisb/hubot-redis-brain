@@ -16,7 +16,7 @@
     "redis": "0.8.4"
   },
   "peerDependencies": {
-    "hubot": "2.x"
+    "lisb-hubot": "2.x"
   },
   "devDependencies": {
     "chai": "^2.1.1",
