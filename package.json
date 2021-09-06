@@ -1,7 +1,7 @@
 {
   "name": "lisb-hubot-redis-brain",
   "description": "A hubot script to persist hubot's brain using redis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publishConfig": {
     "tag": "next"
   },
